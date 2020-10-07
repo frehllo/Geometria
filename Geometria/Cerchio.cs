@@ -37,7 +37,7 @@ namespace Geometria
 
         public string IdentificaCerchio()
         {
-            return $"r = {raggio}, c = {CalcolaCirconferenza()}, a = {CalcolaArea() ";
+            return $"r = {raggio}, c = {CalcolaCirconferenza()}, a = {CalcolaArea()}";
         }
 
     }
